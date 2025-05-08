@@ -1,5 +1,10 @@
 ## Hi there 👋
+---
+Currently working on Calendar Adnroid App with AI - "Caliinda"
+Project stack:
+ADK, Kotlin, Jetpack Compose, Python
 
+Contact me at @lpavs - telegram
 <!--
 **PaveLuchkov/PaveLuchkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
