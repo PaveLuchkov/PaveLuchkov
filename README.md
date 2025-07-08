@@ -1,21 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Pavel Luhckov 👋
+
+I'm an AI Engineer and Mobile Developer passionate about building the next generation of intelligent applications.
+
 ---
-Currently working on Calendar Adnroid App with AI - "Caliinda"
-Project stack:
-ADK, Kotlin, Jetpack Compose, Python
 
-Contact me at @lpavs - telegram
-<!--
-**PaveLuchkov/PaveLuchkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Currently Working On:
 
-Here are some ideas to get you started:
+**Caliinda** — A smart calendar Android app powered by a dynamic, multi-agent AI system. I'm moving beyond simple "AI chatbots" to create a truly proactive and adaptive user experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-   **🤖 Backend & AI:** Python, Google's Agent Development Kit (ADK)
+-   **📱 Frontend:** Kotlin, Jetpack Compose
+
+The goal is to build a system where the AI isn't just a feature, but the core of the application's logic.
+
+---
+
+### 📚 Sharing My Journey:
+
+I'm also documenting my process of building complex AI systems in my guide: **[Building Intelligent Systems: A Modern Playbook](https://github.com/PaveLuchkov/AIasProduct)**. I explore patterns for creating reliable, scalable, and non-hallucinating AI agents.
+
+---
+
+### 📫 Let's Connect:
+
+-   **Telegram:** @lpavs
+-   **GitHub:** Feel free to explore my repositories and open issues or discussions!
